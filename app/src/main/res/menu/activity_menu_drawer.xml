@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+    <item android:title="Categorias">
+        <menu>
+            <item
+                android:id="@+id/catMain"
+                android:icon="@drawable/ic_format_align_justify_black_24dp"
+                android:title="@string/catMain" />
+        <item
+            android:id="@+id/catWork"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/catWork" />
+        <item
+            android:id="@+id/catHouse"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/catHouse" />
+        <item
+            android:id="@+id/catStudy"
+            android:icon="@drawable/ic_edit_black_24dp"
+            android:title="@string/catStudy" />
+            <item
+                android:id="@+id/catReq"
+                android:icon="@drawable/ic_assignment_black_24dp"
+                android:title="@string/catReq" />
+
+        </menu>
+    </item>
+    </group>
+
+    <item android:title="Mas">
+        <menu>
+            <item
+                android:id="@+id/catSOS"
+                android:icon="@drawable/ic_contact_phone_black_24dp"
+                android:title="@string/catSOS" />
+
+        </menu>
+    </item>
+
+</menu>

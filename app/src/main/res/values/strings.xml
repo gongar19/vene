@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Emigrando</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu">Info Argentina</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="nav_header_title">¡Bienvenido!</string>
+    <string name="nav_header_subtitle">Informate, viaja y viví.</string>
+    <string name="nav_header_desc">Menú</string>
+    <string name="action_settings">Configuración</string>
+    //TITULOS
+    <string name="catSOS">Emergencias</string>
+    <string name="catHouse">Alojamiento</string>
+    <string name="catWork">Trabajo</string>
+    <string name="catNews">Noticias</string>
+    <string name="catStudy">Estudios</string>
+    <string name="catEventos">Eventos</string>
+    <string name="catArg">Argentina</string>
+    <string name="catVen">Venezuela</string>
+    <string name="catMain">Principal</string>
+    <string name="catReq">Requisitos</string>
+
+    <string name="zonaprop">Zonaprop</string>
+    <string name="zonaJobs">Zonajobs</string>
+
+    <string name="bumeran">Bumeran</string>
+    <string name="uba">UBA</string>
+    <string name="utn">UTN</string>
+    <string name="um">UNLAM</string>
+    <string name="argenprop">Argenprop</string>
+    <string name="clarin">Clarin Empleos</string>
+
+    <string name="req">
+        \n- Documento de identidad.
+        \n- Partida de nacimiento y la relativa al estado civil de las personas.
+        \n- Certificado de antecedentes penales argentinos.
+        \n- Certificado que acredite fehacientemente que no registra condenas anteriores ni procesos penales en trámite.
+        \n- Declaración jurada de carencia de antecedentes penales en otros países.
+        \n- Sello de ingreso al país estampado en el documento de viaje o tarjeta migratoria.
+        \n- Certificado de domicilio o factura de algún servicio público a su nombre.
+        \n- Foto 4x4 color.
+</string>
+
+</resources>
